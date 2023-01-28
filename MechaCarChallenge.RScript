@@ -1,0 +1,5 @@
+library(tidyverse)
+library(dplyr)
+MechaCar <- read.csv(file='/Users/ambermiller/Desktop/Vandy_BootCamp_work/Module16_R/MechaCar_Statistical_Analysis/MechaCar_mpg.csv', check.names=F, stringsAsFactors = F) #create the MechaCar dataframe
+lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, MechaCar_mpg) # generate a multiple linear regression model
+summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, MechaCar_mpg)) #generate summary statistics
