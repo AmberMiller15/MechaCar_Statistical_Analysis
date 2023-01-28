@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Part 1: Linear Regression to Predict MPG
-    image.png
+
     ![image](https://user-images.githubusercontent.com/111200771/215296608-13ff20bb-1541-4537-8784-a795be9e8bba.png)
 
 
