@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 ## Part 1: Linear Regression to Predict MPG
 
-    ![image](https://user-images.githubusercontent.com/111200771/215296608-13ff20bb-1541-4537-8784-a795be9e8bba.png)
+   ![image](https://user-images.githubusercontent.com/111200771/215296608-13ff20bb-1541-4537-8784-a795be9e8bba.png)
 
 
     According the linear regression analysis in R, the strongest contributor of non-random variance seems to be teh vehicle weight with a P-value of 2.60e-12. Another strong contributor is ground clearance with a P-value of 5.21e-08. 
