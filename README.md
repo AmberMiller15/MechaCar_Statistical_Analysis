@@ -21,7 +21,7 @@
 
 ### Part 3: T-Test on Suspension Coils
 All Lots :
-![image](https://user-images.githubusercontent.com/111200771/215298980-e86c5e1a-fb26-4f31-8143-1b96096ae003.png)
+![image](https://user-images.githubusercontent.com/111200771/215298993-e9d73d2c-8694-408c-bac4-23c44acc958f.png)
 
 Lot 1 :
 ![image](https://user-images.githubusercontent.com/111200771/215298982-f6189362-9963-4c74-8e06-5218c6bc22b1.png)
