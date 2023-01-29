@@ -11,13 +11,10 @@
    The r-squared value calculated for this linear model is 0.7149, meaning this model has good predictive power for the prediction on mpg of current and future vehicles.
     
 ### Part 2: Summary Statistics on Suspension Coils
-    Total Summary
-   
+   Total Summary   
 ![image](https://user-images.githubusercontent.com/111200771/215297836-1200c366-eeb5-4370-bd8b-71d3b37a5c97.png)
 
-
-    Lot Summary
-    
+   Lot Summary    
 ![image](https://user-images.githubusercontent.com/111200771/215297833-198ef51e-be95-4b19-aa09-09fa205fa05e.png)
 
 
