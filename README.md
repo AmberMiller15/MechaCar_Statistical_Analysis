@@ -34,4 +34,5 @@ Lot 3 :
 
    From the t-test for all the lots combined the coils are not statistical;ly different from the population mean of 1500 PSI with a mean of 1498.78 PSI and a p-value of 0.06028. Each lot individually produce different results. Lot 1 and 2 are not statistically different from the population mean with means at 1500 and 1500.2 respectively and p-values of 1 and 0.6072 respectively. Lot 3 is statistically different with a mena of 1496.14 and a p-value of 0.04168. 
     
+    
 ### Part 4: Design a Study Comparing the MechaCar to the Competition
