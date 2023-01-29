@@ -20,13 +20,18 @@
    For all manufacturing lots together the current design meets the variance specifications of 100 PSI with a total variance of 62.29 PSI. The contributor to the high PSI variance is Lot 3 which does not meet the variance specifications with a variance of 170.29 PSI. Lot 1 and Lot 2 both meet the specifications on their own with a variance of 0.98 PSI and 7.47 PSI respectively.
 
 ### Part 3: T-Test on Suspension Coils
-    All Lots:
-    Lot 1 :
+All Lots:
+![image](https://user-images.githubusercontent.com/111200771/215298886-91ee6e34-bdef-4992-954f-f068dfc93339.png)
 
-    Lot 2 :
+Lot 1 :
+![image](https://user-images.githubusercontent.com/111200771/215298891-d73b7d17-8252-4cd7-ba05-9a9f2d1d3c99.png)
 
-    Lot 3 :
+Lot 2 :
+![image](https://user-images.githubusercontent.com/111200771/215298900-cc5bc029-6954-4cf4-9253-76d94f2dcdbf.png)
 
-    From the t-test for all the lots combined the coils are not statistical;ly different from the population mean of 1500 PSI with a mean of 1498.78 PSI and a p-value of 0.06028. Each lot individually produce different results. Lot 1 and 2 are not statistically different from the population mean with means at 1500 and 1500.2 respectively and p-values of 1 and 0.6072 respectively. Lot 3 is statistically different with a mena of 1496.14 and a p-value of 0.04168. 
+Lot 3 :
+![image](https://user-images.githubusercontent.com/111200771/215298905-93091f7f-91c8-4c5d-9156-00b14a4b2817.png)
+
+   From the t-test for all the lots combined the coils are not statistical;ly different from the population mean of 1500 PSI with a mean of 1498.78 PSI and a p-value of 0.06028. Each lot individually produce different results. Lot 1 and 2 are not statistically different from the population mean with means at 1500 and 1500.2 respectively and p-values of 1 and 0.6072 respectively. Lot 3 is statistically different with a mena of 1496.14 and a p-value of 0.04168. 
     
 ### Part 4: Design a Study Comparing the MechaCar to the Competition
