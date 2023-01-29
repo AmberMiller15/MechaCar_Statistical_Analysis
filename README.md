@@ -21,10 +21,10 @@
 
 ### Part 3: T-Test on Suspension Coils
 All Lots :
-![image](https://user-images.githubusercontent.com/111200771/215298886-91ee6e34-bdef-4992-954f-f068dfc93339.png)
+![image](https://user-images.githubusercontent.com/111200771/215298980-e86c5e1a-fb26-4f31-8143-1b96096ae003.png)
 
 Lot 1 :
-![image](https://user-images.githubusercontent.com/111200771/215298891-d73b7d17-8252-4cd7-ba05-9a9f2d1d3c99.png)
+![image](https://user-images.githubusercontent.com/111200771/215298982-f6189362-9963-4c74-8e06-5218c6bc22b1.png)
 
 Lot 2 :
 ![image](https://user-images.githubusercontent.com/111200771/215298900-cc5bc029-6954-4cf4-9253-76d94f2dcdbf.png)
