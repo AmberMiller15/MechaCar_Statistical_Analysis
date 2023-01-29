@@ -3,7 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/111200771/215296608-13ff20bb-1541-4537-8784-a795be9e8bba.png)
 
-
    According the linear regression analysis in R, the strongest contributor of non-random variance seems to be teh vehicle weight with a P-value of 2.60e-12. Another strong contributor is ground clearance with a P-value of 5.21e-08. 
 
    The slope of this particular linear model is not zero. The slope coefficients contain significant non zero values for each variable, with p-values for vehicle length and ground clearance less than the significance level of p=0.05. 
@@ -21,5 +20,13 @@
    For all manufacturing lots together the current design meets the variance specifications of 100 PSI with a total variance of 62.29 PSI. The contributor to the high PSI variance is Lot 3 which does not meet the variance specifications with a variance of 170.29 PSI. Lot 1 and Lot 2 both meet the specifications on their own with a variance of 0.98 PSI and 7.47 PSI respectively.
 
 ### Part 3: T-Test on Suspension Coils
+    All Lots:
+    Lot 1 :
 
+    Lot 2 :
+
+    Lot 3 :
+
+    From the t-test for all the lots combined the coils are not statistical;ly different from the population mean of 1500 PSI with a mean of 1498.78 PSI and a p-value of 0.06028. Each lot individually produce different results. Lot 1 and 2 are not statistically different from the population mean with means at 1500 and 1500.2 respectively and p-values of 1 and 0.6072 respectively. Lot 3 is statistically different with a mena of 1496.14 and a p-value of 0.04168. 
+    
 ### Part 4: Design a Study Comparing the MechaCar to the Competition
