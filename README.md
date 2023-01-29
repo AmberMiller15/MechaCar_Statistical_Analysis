@@ -20,6 +20,7 @@
    For all manufacturing lots together the current design meets the variance specifications of 100 PSI with a total variance of 62.29 PSI. The contributor to the high PSI variance is Lot 3 which does not meet the variance specifications with a variance of 170.29 PSI. Lot 1 and Lot 2 both meet the specifications on their own with a variance of 0.98 PSI and 7.47 PSI respectively.
 
 ### Part 3: T-Test on Suspension Coils
+
 All Lots :
 ![image](https://user-images.githubusercontent.com/111200771/215298993-e9d73d2c-8694-408c-bac4-23c44acc958f.png)
 
@@ -36,10 +37,10 @@ Lot 3 :
     
     
 ### Part 4: Design a Study Comparing the MechaCar to the Competition
-    In order to compare the MechaCar to the competition additional testing will need to be performed. The metrics that need to be looked at when comparing MechaCar to the competition are cost, city and highway miles fuel efficiency, horse power, and safety rating. 
+   In order to compare the MechaCar to the competition additional testing will need to be performed. The metrics that need to be looked at when comparing MechaCar to the competition are cost, city and highway miles fuel efficiency, horse power, and safety rating. 
 
-    The testing will be comprised of comparing the statistical variability of MechaCar to the competition in each metric. The null hypothesis would be that MechaCar is not statistical different from the competition. The alternative hypothesis is that MechaCar is statistically variable against the competition in each variable.
+   The testing will be comprised of comparing the statistical variability of MechaCar to the competition in each metric. The null hypothesis would be that MechaCar is not statistical different from the competition. The alternative hypothesis is that MechaCar is statistically variable against the competition in each variable.
 
-    The statistical tests that would be used to compare MechaCar against the competition, would be multiple t-tests to see if the MechaCar rates higher or lower statistically. The variables that MechaCar would want to score lower on are cost, and the variables it would want to score higher on are safety rating, fuel efficiency, and horsepower. 
+   The statistical tests that would be used to compare MechaCar against the competition, would be multiple t-tests to see if the MechaCar rates higher or lower statistically. The variables that MechaCar would want to score lower on are cost, and the variables it would want to score higher on are safety rating, fuel efficiency, and horsepower. 
 
-    The data needed would be industry data reports on the safety rating, fuel efficiency, cost, and horsepower of the top vehicle make and models in the competition. 
+   The data needed would be industry data reports on the safety rating, fuel efficiency, cost, and horsepower of the top vehicle make and models in the competition. 
