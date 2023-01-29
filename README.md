@@ -32,7 +32,14 @@ Lot 2 :
 Lot 3 :
 ![image](https://user-images.githubusercontent.com/111200771/215298905-93091f7f-91c8-4c5d-9156-00b14a4b2817.png)
 
-   From the t-test for all the lots combined the coils are not statistical;ly different from the population mean of 1500 PSI with a mean of 1498.78 PSI and a p-value of 0.06028. Each lot individually produce different results. Lot 1 and 2 are not statistically different from the population mean with means at 1500 and 1500.2 respectively and p-values of 1 and 0.6072 respectively. Lot 3 is statistically different with a mena of 1496.14 and a p-value of 0.04168. 
+   From the t-test for all the lots combined the coils are not statistically different from the population mean of 1500 PSI with a mean of 1498.78 PSI and a p-value of 0.06028. Each lot individually produce different results. Lot 1 and 2 are not statistically different from the population mean with means at 1500 and 1500.2 respectively and p-values of 1 and 0.6072 respectively. Lot 3 is statistically different with a mena of 1496.14 and a p-value of 0.04168. 
     
     
 ### Part 4: Design a Study Comparing the MechaCar to the Competition
+    In order to compare the MechaCar to the competition additional testing will need to be performed. The metrics that need to be looked at when comparing MechaCar to the competition are cost, city and highway miles fuel efficiency, horse power, and safety rating. 
+
+    The testing will be comprised of comparing the statistical variability of MechaCar to the competition in each metric. The null hypothesis would be that MechaCar is not statistical different from the competition. The alternative hypothesis is that MechaCar is statistically variable against the competition in each variable.
+
+    The statistical tests that would be used to compare MechaCar against the competition, would be multiple t-tests to see if the MechaCar rates higher or lower statistically. The variables that MechaCar would want to score lower on are cost, and the variables it would want to score higher on are safety rating, fuel efficiency, and horsepower. 
+
+    The data needed would be industry data reports on the safety rating, fuel efficiency, cost, and horsepower of the top vehicle make and models in the competition. 
