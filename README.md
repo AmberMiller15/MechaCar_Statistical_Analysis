@@ -20,12 +20,10 @@
    For all manufacturing lots together the current design meets the variance specifications of 100 PSI with a total variance of 62.29 PSI. The contributor to the high PSI variance is Lot 3 which does not meet the variance specifications with a variance of 170.29 PSI. Lot 1 and Lot 2 both meet the specifications on their own with a variance of 0.98 PSI and 7.47 PSI respectively.
 
 ### Part 3: T-Test on Suspension Coils
-All Lots : 
-
+All Lots :
 ![image](https://user-images.githubusercontent.com/111200771/215298886-91ee6e34-bdef-4992-954f-f068dfc93339.png)
 
-Lot 1 : 
-
+Lot 1 :
 ![image](https://user-images.githubusercontent.com/111200771/215298891-d73b7d17-8252-4cd7-ba05-9a9f2d1d3c99.png)
 
 Lot 2 :
